@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hbibl/OneDrive/Documentos/Unreal Projects/EnhancedInputSR/Content/main_empty.umap",
+				"C:/Users/hbibl/OneDrive/Documentos/Unreal Projects/EnhancedInputSR/Content/inputs/InputMappingContext.uasset",
+				"C:/Users/hbibl/OneDrive/Documentos/Unreal Projects/EnhancedInputSR/Content/inputs/ButtonPress.uasset",
+				"C:/Users/hbibl/OneDrive/Documentos/Unreal Projects/EnhancedInputSR/Content/UMG_ConfigInputDynamic.uasset",
+				"C:/Users/hbibl/OneDrive/Documentos/Unreal Projects/EnhancedInputSR/Content/arrow.uasset",
+				"C:/Users/hbibl/OneDrive/Documentos/Unreal Projects/EnhancedInputSR/Content/texture/arrow.uasset"
+			]
+		}
+	]
+}
